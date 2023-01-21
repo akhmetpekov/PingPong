@@ -3,7 +3,7 @@ Ping Pong is a classic computer game in which the player controls a paddle to hi
 # Demo
 
 
-https://user-images.githubusercontent.com/53079044/213848859-3ef9bae1-7bee-40d5-97ef-586d4247c27f.mov
+https://user-images.githubusercontent.com/53079044/213848906-d9ad4bf1-eb1b-401d-9802-dc80ab609552.mov
 
 
 # Tech Stack
